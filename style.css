@@ -6,11 +6,11 @@
 
 .header {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
   background-color: #1F2937;
   color: #F9FAF8;
-  padding: 12px 0px;
+  padding: 12px 250px;
 }
 
 .header span {
@@ -30,3 +30,44 @@ a {
   color: #E5E7EB;
 }
 
+.first_row {
+  display: flex;
+  justify-content: center;
+  background-color: #1F2937;
+  gap: 40px;
+  padding: 100px 0px;
+}
+
+h1 {
+  font-size: 48px;
+  color: #F9FAF8;
+  font-weight: 900;
+}
+
+.secondary_text {
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
+.first_row button {
+  color: white;
+  background-color: #3882F6;
+  border: 2px solid #3882F6;
+  padding: 4px 16px;
+  border-radius: 5px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.hero_text {
+  flex-basis: 500px;
+}
+
+.placeholder {
+  flex-basis: 500px;
+  background-color: gray;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

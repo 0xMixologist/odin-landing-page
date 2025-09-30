@@ -136,3 +136,39 @@ h2 {
   padding-right: 24px;
 }
 
+.fourth_row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 72px 0px;
+}
+
+h3 {
+  color: white;
+  font-weight: bold;
+}
+
+.call_to_action p {
+  color: white;
+}
+
+.action_content button {
+  background-color: #3882F6;
+  border: 2px solid white;
+  color: white;
+  padding: 0px 24px;
+  height: 30px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.action_content {
+  background-color: #3882F6;
+  display: flex;
+  justify-content: center;
+  gap: 180px;
+  padding: 36px 190px;
+  align-items: center;
+  border-radius: 5px;
+}
+

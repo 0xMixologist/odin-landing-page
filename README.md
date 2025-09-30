@@ -1,1 +1,1 @@
-# odin-landing-page
+This is one of TOP projects from the flexbox foundations section, it's a pretty simple landing page laid out using flexbox, there are some styling details missing that would be key to give it a modern feel, like button hovering actions for example. These were not added because I personally felt they were unnecessary considering the scope of the task. I might add these small details in the future, and update the README accordingly.
